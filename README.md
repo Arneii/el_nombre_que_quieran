@@ -19,4 +19,4 @@ Miguel de Servantes(1605)
 
 <img src="https://ih1.redbubble.net/image.522902202.8110/flat,750x1000,075,f.u8.jpg" alt="Logo de R" width="300">
 
-![Logo de R](https://ih1.redbubble.net/image.522902202.8110/flat,750x1000,075,f.u8.jpg)
+![Logo de R](flat,750x1000,075,f.u8.jpg)
