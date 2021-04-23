@@ -15,6 +15,5 @@ Este es el texto del repositorio....
 
 Miguel de Servantes(1605)
 
-[Enlace al programa del  curso](https://github.com/gf0604-procesamientodatosgeograficos/2021i-programa/blob/main/gf0604-procesamientodatosgeograficos-g001-2021i.pd   )  
-
+[Enlace al programa del  curso](https://github.com/gf0604-procesamientodatosgeograficos/2021i-programa/blob/main/gf0604-procesamientodatosgeograficos-g001-2021i.pdf)
 <img src="https://ih1.redbubble.net/image.522902202.8110/flat,750x1000,075,f.u8.jpg" alt="Logo de R" width="300">
