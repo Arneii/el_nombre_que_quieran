@@ -10,7 +10,8 @@ Este es el texto del repositorio....
 
 [este es un enlace al sitio web de la ucr](https://www.ucr.ac.cr/)
 
->*En un lugar de la mancha    
->de cuyo nombre no quiero acordarme...*
+>*"En un lugar de la mancha      
+>de cuyo nombre no quiero acomordarme..."*
 
-Miguel de servantes (1605)
+Miguel de Servantes(1906)
+
