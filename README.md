@@ -24,4 +24,9 @@ Miguel de Servantes(1605)
 Lista numerada
 1. Primer elemen
 2. Segundo elemento
-3. Tercer elemento
+3. etc
+
+Lista no numerada
+* elemento 
+* elemento
+* elemento
