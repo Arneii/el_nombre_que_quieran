@@ -17,6 +17,6 @@ Miguel de Servantes(1605)
 
 [Enlace al programa del  curso](https://github.com/gf0604-procesamientodatosgeograficos/2021i-programa/blob/main/gf0604-procesamientodatosgeograficos-g001-2021i.pdf)
 
-<img src="https://ih1.redbubble.net/image.522902202.8110/flat,750x1000,075,f.u8.jpg" alt="Logo de R" width="300">
+<img src="https://docs.microsoft.com/es-es/azure/architecture/data-guide/images/logo_r.svg" alt="Logo de R" width="300">  
 
-![Logo de R](flat,750x1000,075,f.u8.jpg)
+![](logo_r.svg)
