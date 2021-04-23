@@ -19,4 +19,4 @@ Miguel de Servantes(1605)
 
 <img src="https://docs.microsoft.com/es-es/azure/architecture/data-guide/images/logo_r.svg" alt="Logo de R" width="300">  
 
-![Gato](https://github.com/Arneii/el_nombre_que_quieran/blob/main/Gato.jpg"Gato")
+![Gato](https://github.com/Arneii/el_nombre_que_quieran/blob/main/Gato.jpg)
