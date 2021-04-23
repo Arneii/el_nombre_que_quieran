@@ -13,6 +13,6 @@ Este es el texto del repositorio....
 >*"En un lugar de la mancha      
 >de cuyo nombre no quiero acomordarme..."*
 
-Miguel de Servantes(1906)
+Miguel de Servantes(1605)
 
 [Enlace al programa del  curso](https://github.com/gf0604-procesamientodatosgeograficos/2021i-programa/blob/main/gf0604-procesamientodatosgeograficos-g001-2021i.pd   )   
