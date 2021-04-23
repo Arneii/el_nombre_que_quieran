@@ -21,8 +21,6 @@ Miguel de Servantes(1605)
 
 ![Gato](https://github.com/Arneii/el_nombre_que_quieran/blob/main/Gato.jpg)
 
-<img src="https://github.com/Arneii/el_nombre_que_quieran/blob/main/Gato.jpg" alt="Logo de R" width="300">
-
 Lista numerada
 1. Primer elemen
 2. Segundo elemento
